@@ -1,46 +1,44 @@
 # Cline Discord Recaps
 
-Daily summaries of key discussions and insights from the Cline Discord community.
+Cline Discordコミュニティの主要な議論と洞察の毎日の要約。
 
-Each recap includes the day's TLDR, releases, major takeaways, and notable community quotes.
+各レキャップには、その日のTLDR、リリース、主要なポイント、および注目すべきコミュニティの引用が含まれています。
 
-[Join the conversation](https://discord.gg/Mjyj2Sm3)
+[会話に参加する](https://discord.gg/Mjyj2Sm3)
 
 ---
 
-## Cline Discord Recap - January 5, 2025
+## Cline Discord Recap - 2025年1月5日
 
 ### TLDR
-Major discussions centered around DeepSeek V3 performance issues and pricing changes, significant contributions including new OpenAI-compatible endpoint features, and innovative MCP server developments for memory management and automation.
+主要な議論は、DeepSeek V3のパフォーマンス問題と価格変更、新しいOpenAI互換エンドポイント機能を含む重要な貢献、およびメモリ管理と自動化のための革新的なMCPサーバー開発に集中しました。
 
-### Key Discussions & Quotes
+### 主要な議論と引用
 
-**DeepSeek V3 Performance & Pricing Concerns**
-* "Ok everyone be aware Deepseek through openrouter has new providers which are expensive and slow" (night.trek) [See announcement](https://discord.com/channels/1275535550845292637/1275535550845292640/1325629990443679814)
-* "used to pay .0003 a call (roughly) now its 0.08" (uke__uke) [See pricing discussion](https://discord.com/channels/1275535550845292637/1275535550845292640/1325489994961256458)
-* Community actively discussing alternatives and workarounds, including direct API usage and provider selection
-* Context: Significant performance degradation and price increases causing community to reevaluate their model choices
+**DeepSeek V3のパフォーマンスと価格の懸念**
+* "みんな注意して、openrouter経由のDeepseekには新しいプロバイダーがあり、高価で遅い" (night.trek) [アナウンスを見る](https://discord.com/channels/1275535550845292637/1275535550845292640/1325629990443679814)
+* "以前は1回の呼び出しに約0.0003ドルを支払っていたが、今は0.08ドル" (uke__uke) [価格の議論を見る](https://discord.com/channels/1275535550845292637/1275535550845292640/1325489994961256458)
+* コミュニティは、直接APIの使用やプロバイダーの選択を含む代替案と回避策を積極的に議論しています
+* コンテキスト: 重大なパフォーマンスの低下と価格の上昇により、コミュニティはモデルの選択を再評価しています
 
-**Notable Contributions & Features**
-* New PR for OpenAI-compatible endpoint features including prompt caching and computer use [View PR](https://discord.com/channels/1275535550845292637/1275535550845292640/1325645945656049706)
-* Work on supporting non-streaming models through OpenAI-compatible endpoints [See development](https://discord.com/channels/1275535550845292637/1321367716820422657/1325648751959867496)
-* Context: Community actively contributing to improve compatibility and feature set
+**注目すべき貢献と機能**
+* プロンプトキャッシングとコンピュータ使用を含む新しいOpenAI互換エンドポイント機能のための新しいPR [PRを見る](https://discord.com/channels/1275535550845292637/1275535550845292640/1325645945656049706)
+* OpenAI互換エンドポイントを通じて非ストリーミングモデルをサポートする作業 [開発を見る](https://discord.com/channels/1275535550845292637/1321367716820422657/1325648751959867496)
+* コンテキスト: コミュニティは互換性と機能セットの改善に積極的に貢献しています
 
-**MCP Server Innovations**
-* Development of long-term memory solutions using vectorized storage [See discussion](https://discord.com/channels/1275535550845292637/1316849926533287986/1325670123897622598)
-* "I've been stuck some type errors for type script. I essentially took the 7 file based context prompt and built the mcp memory servers around that idea" (thecryptojunky) [See implementation details](https://discord.com/channels/1275535550845292637/1316849926533287986/1325670123897622598)
-* Context: Growing focus on enhancing context retention and error handling through specialized MCP servers
+**MCPサーバーの革新**
+* ベクトル化されたストレージを使用した長期メモリソリューションの開発 [議論を見る](https://discord.com/channels/1275535550845292637/1316849926533287986/1325670123897622598)
+* "型エラーに悩まされている。基本的に7つのファイルベースのコンテキストプロンプトを取り、それに基づいてMCPメモリサーバーを構築した" (thecryptojunky) [実装の詳細を見る](https://discord.com/channels/1275535550845292637/1316849926533287986/1325670123897622598)
+* コンテキスト: 専門のMCPサーバーを通じてコンテキスト保持とエラーハンドリングの強化に焦点を当てています
 
-**Enterprise Usage & ROI**
-* "One project I did with about $200 in AI spend resulted in like an additional $1.75M in revenue" (flyryan) [See ROI discussion](https://discord.com/channels/1275535550845292637/1321367716820422657/1325649630930669633)
-* "It make people who can't code, get by. It makes people who can code a little good. And it makes people who can code for real, fast" [See insight](https://discord.com/channels/1275535550845292637/1321367716820422657/1325649900246925453)
-* Context: Growing evidence of significant business value and productivity gains
+**企業の使用とROI**
+* "AIに約200ドルを費やしたプロジェクトが、約175万ドルの追加収益をもたらした" (flyryan) [ROIの議論を見る](https://discord.com/channels/1275535550845292637/1321367716820422657/1325649630930669633)
+* "コードが書けない人がなんとかやり遂げることができる。少しコードが書ける人が良くなる。そして、本当にコードが書ける人が速くなる" [洞察を見る](https://discord.com/channels/1275535550845292637/1321367716820422657/1325649900246925453)
+* コンテキスト: 重要なビジネス価値と生産性の向上の証拠が増えています
 
-**Documentation & Context Management**
-* "Just figured something out... if I make a reference say to some service or library in my document I can annotate that document with the URL to the API documentation" (r3d91ll_22633) [See tip](https://discord.com/channels/1275535550845292637/1316849926533287986/1325528153942392933)
-* Discussion around maintaining project context and documentation through automated updates
-* Context: Community developing best practices for maintaining project context and documentation
+**ドキュメントとコンテキスト管理**
+* "ちょうど何かを思いついた...ドキュメントにサービスやライブラリへの参照を作成する場合、そのドキュメントにAPIドキュメントのURLを注釈として追加できる" (r3d91ll_22633) [ヒントを見る](https://discord.com/channels/1275535550845292637/1316849926533287986/1325528153942392933)
+* プロジェクトのコンテキストとドキュメントを自動更新を通じて維持する議論
+* コンテキスト: コミュニティはプロジェクトのコンテキストとドキュメントを維持するためのベストプラクティスを開発しています
 
-[Join the conversation](https://discord.gg/cline)
-
-
+[会話に参加する](https://discord.gg/cline)
