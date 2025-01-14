@@ -1,37 +1,37 @@
-# Cline Documentation
+# Cline ドキュメント
 
-Welcome to the Cline documentation - your comprehensive guide to using and extending Cline's capabilities. Here you'll find resources to help you get started, improve your skills, and contribute to the project.
+Cline ドキュメントへようこそ - Cline の機能を使用および拡張するための包括的なガイドです。ここでは、始め方、スキルの向上、プロジェクトへの貢献に役立つリソースを見つけることができます。
 
-## Getting Started
+## はじめに
 
-- **New to coding?** We've prepared a gentle introduction:
-  - [Getting Started for New Coders](getting-started-new-coders/README.md)
+- **コーディング初心者の方へ:** 優しい導入を用意しています:
+  - [新しいコーダーのための始め方](getting-started-new-coders/README.md)
 
-## Improving Your Prompting Skills
+## プロンプトスキルの向上
 
-- **Want to communicate more effectively with Cline?** Explore:
-  - [Prompt Engineering Guide](prompting/README.md)
-  - [Cline Memory Bank](prompting/custom%20instructions%20library/cline-memory-bank.md)
+- **Cline とより効果的にコミュニケーションを取りたいですか？** 次を参照してください:
+  - [プロンプトエンジニアリングガイド](prompting/README.md)
+  - [Cline メモリバンク](prompting/custom%20instructions%20library/cline-memory-bank.md)
 
-## Exploring Cline's Tools
+## Cline のツールの探索
 
-- **Understand Cline's capabilities:**
-  - [Cline Tools Guide](tools/cline-tools-guide.md)
+- **Cline の機能を理解する:**
+  - [Cline ツールガイド](tools/cline-tools-guide.md)
 
-- **Extend Cline with MCP Servers:**
-  - [MCP Overview](mcp/README.md)
-  - [Building MCP Servers from GitHub](mcp/mcp-server-from-github.md)
-  - [Building Custom MCP Servers](mcp/mcp-server-from-scratch.md)
+- **MCP サーバーで Cline を拡張する:**
+  - [MCP 概要](mcp/README.md)
+  - [GitHub から MCP サーバーを構築する](mcp/mcp-server-from-github.md)
+  - [カスタム MCP サーバーを構築する](mcp/mcp-server-from-scratch.md)
 
-## Contributing to Cline
+## Cline への貢献
 
-- **Interested in contributing?** We welcome your input:
-  - Feel free to submit a pull request
-  - [Contribution Guidelines](CONTRIBUTING.md)
+- **貢献に興味がありますか？** あなたの入力を歓迎します:
+  - プルリクエストを提出してください
+  - [貢献ガイドライン](CONTRIBUTING.md)
 
-## Additional Resources
+## 追加リソース
 
-- **Cline GitHub Repository:** [https://github.com/cline/cline](https://github.com/cline/cline)
-- **MCP Documentation:** [https://modelcontextprotocol.org/docs](https://modelcontextprotocol.org/docs)
+- **Cline GitHub リポジトリ:** [https://github.com/cline/cline](https://github.com/cline/cline)
+- **MCP ドキュメント:** [https://modelcontextprotocol.org/docs](https://modelcontextprotocol.org/docs)
 
-We're always looking to improve this documentation. If you have suggestions or find areas that could be enhanced, please let us know. Your feedback helps make Cline better for everyone.
+このドキュメントを改善するための提案や、改善できる部分を見つけた場合は、お知らせください。あなたのフィードバックは、Cline をより良いものにするための助けになります。
